@@ -1,0 +1,14 @@
+C:\Users\Lenovo LOQ\Documents\Programas GIT\Ejercicios 1Er. Parcial\obj\Debug\net8.0\Ejercicios 1Er. Parcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo LOQ\Documents\Programas GIT\Ejercicios 1Er. Parcial\obj\Debug\net8.0\Ejercicios 1Er. Parcial.AssemblyInfoInputs.cache
+C:\Users\Lenovo LOQ\Documents\Programas GIT\Ejercicios 1Er. Parcial\obj\Debug\net8.0\Ejercicios 1Er. Parcial.AssemblyInfo.cs
+C:\Users\Lenovo LOQ\Documents\Programas GIT\Ejercicios 1Er. Parcial\obj\Debug\net8.0\Ejercicios 1Er. Parcial.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo LOQ\Documents\Programas GIT\Ejercicios 1Er. Parcial\bin\Debug\net8.0\Ejercicios 1Er. Parcial.exe
+C:\Users\Lenovo LOQ\Documents\Programas GIT\Ejercicios 1Er. Parcial\bin\Debug\net8.0\Ejercicios 1Er. Parcial.deps.json
+C:\Users\Lenovo LOQ\Documents\Programas GIT\Ejercicios 1Er. Parcial\bin\Debug\net8.0\Ejercicios 1Er. Parcial.runtimeconfig.json
+C:\Users\Lenovo LOQ\Documents\Programas GIT\Ejercicios 1Er. Parcial\bin\Debug\net8.0\Ejercicios 1Er. Parcial.dll
+C:\Users\Lenovo LOQ\Documents\Programas GIT\Ejercicios 1Er. Parcial\bin\Debug\net8.0\Ejercicios 1Er. Parcial.pdb
+C:\Users\Lenovo LOQ\Documents\Programas GIT\Ejercicios 1Er. Parcial\obj\Debug\net8.0\Ejercicios 1Er. Parcial.dll
+C:\Users\Lenovo LOQ\Documents\Programas GIT\Ejercicios 1Er. Parcial\obj\Debug\net8.0\refint\Ejercicios 1Er. Parcial.dll
+C:\Users\Lenovo LOQ\Documents\Programas GIT\Ejercicios 1Er. Parcial\obj\Debug\net8.0\Ejercicios 1Er. Parcial.pdb
+C:\Users\Lenovo LOQ\Documents\Programas GIT\Ejercicios 1Er. Parcial\obj\Debug\net8.0\Ejercicios 1Er. Parcial.genruntimeconfig.cache
+C:\Users\Lenovo LOQ\Documents\Programas GIT\Ejercicios 1Er. Parcial\obj\Debug\net8.0\ref\Ejercicios 1Er. Parcial.dll
